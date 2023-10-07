@@ -9,4 +9,4 @@ Experimenting in python with mujoco to make virtual turtle-bots that can be play
 
 Try it in colaboratory: https://colab.research.google.com/drive/1m_Jhb2v6_SFeDoTtpXzSeoGvPxu8wK1_
 
-Presented at PyconZA 2023 by :David Campey in the session turtle-bots: simulated beginnings.
+Presented at PyconZA 2023 by :David Campey in the session [turtle-bots: simulated beginnings](https://za.pycon.org/talks/), [talk slides](http://bit.ly/turtle-sim-deck-pycon).
